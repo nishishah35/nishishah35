@@ -13,7 +13,7 @@ I'm a passionate Full Stack Java Developer specializing in Spring Boot, MySQL, R
 
 📂 Notable Projects:
 - [Online Blood Bank Management](https://github.com/nishishah35/online_bloodbank_management)
-- [Placement Management System](#)
+- [Placement Management System](https://github.com/nishishah35/placement-management-system)
 - [Portfolio Website](#)
 
 📊 GitHub Stats:
