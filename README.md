@@ -1,16 +1,20 @@
-## Hi there 👋
+### 👋 Hi there, I'm Nishi Shah
+I'm a passionate Full Stack Java Developer specializing in Spring Boot, MySQL, React, and PHP.
 
-<!--
-**nishishah35/nishishah35** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔧 Tech Stack:
+- Backend: Java, Spring Boot, PHP
+- Frontend: HTML, CSS, JavaScript, React
+- Database: MySQL
+- Tools: Git, GitHub, VS Code, Postman
 
-Here are some ideas to get you started:
+📫 How to reach me:
+- [LinkedIn](https://www.linkedin.com/in/nishi-shah-7a17a52b6)
+- [GitHub](https://github.com/nishishah35)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📂 Notable Projects:
+- [Online Blood Bank Management](https://github.com/nishishah35/online_bloodbank_management)
+- [Placement Management System](#)
+- [Portfolio Website](#)
+
+📊 GitHub Stats:
+![Nishi's GitHub stats](https://github-readme-stats.vercel.app/api?username=nishishah35&show_icons=true&theme=dracula)
