@@ -1,178 +1,207 @@
-<h1 align="center">Hey there 👋, Nice to meet you!</h1>
+<div align="center">
+  
+# 👋 Hey there, Nice to meet you!
 
-<p align="center">
-  I'm a <strong>Full-Stack & .NET Developer</strong> who loves building scalable, intelligent web applications.<br/>
-  I specialize in orchestrating the full development stack — from clean backend APIs to data-driven frontends —<br/>
-  with a strong foundation in <strong>AI & ML integration</strong>.<br/><br/>
-  I'm excited to explore the depths of machine learning, particularly in <strong>deep learning and NLP</strong>,<br/>
-  while delivering enterprise-grade solutions using <strong>.NET, Python, and React</strong>.
-</p>
+### Full-Stack & .NET Developer | AI/ML Enthusiast
 
----
+*Building scalable, intelligent applications at the intersection of enterprise development and machine learning*
 
-## 🛠️ My Tech Stack
+[![Profile Views](https://komarev.com/ghpvc/?username=nishishah35&label=Profile%20views&color=0e75b6&style=flat)](https://github.com/nishishah35)
 
-### 🖥️ Programming Languages
-
-<p>
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-</p>
+</div>
 
 ---
 
-### 🐍 Python Libraries & Frameworks
+## 🎯 About Me
 
-* **Data Manipulation**
+<img align="right" alt="Coding" width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
-  <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
+- 🔭 Currently working as a **.NET Developer Intern at Casepoint**
+- 🌱 Deep diving into **Deep Learning & NLP** with Python
+- 💡 Passionate about bridging **enterprise .NET solutions** with **AI capabilities**
+- 🎓 B.E. CSE with Minor in AI & ML (SPI: **9.13/10**)
+- 📫 Reach me at **cse.230843131025@gmail.com**
+- ⚡ Fun fact: I love turning complex problems into elegant, scalable solutions
 
-* **Data Visualisation**
-
-  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=python&logoColor=white"/>
-
-* **Classical Machine Learning**
-
-  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"/>
-
-* **REST API Frameworks**
-
-  <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white"/>
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
+<br/>
 
 ---
 
-### ⚙️ .NET & Web Frameworks
+## 🛠️ Technology Arsenal
 
-<p>
-  <img src="https://img.shields.io/badge/ASP.NET_Core_MVC-512BD4?style=flat-square&logo=dotnet&logoColor=white"/>
-  <img src="https://img.shields.io/badge/.NET_Web_API-512BD4?style=flat-square&logo=dotnet&logoColor=white"/>
-  <img src="https://img.shields.io/badge/React.js-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
-  <img src="https://img.shields.io/badge/Kendo_UI-FF6358?style=flat-square&logo=telerik&logoColor=white"/>
-  <img src="https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jquery&logoColor=white"/>
-</p>
+### Core Languages
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
----
+### Backend Frameworks
+![.NET Core](https://img.shields.io/badge/.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![ASP.NET MVC](https://img.shields.io/badge/ASP.NET_MVC-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 
-### 💾 Databases & Caching
+### Frontend Technologies
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Kendo UI](https://img.shields.io/badge/Kendo_UI-FF6358?style=for-the-badge&logo=telerik&logoColor=white)
+![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-<p>
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white"/>
-</p>
+### AI/ML Stack
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 
----
+### Database & Storage
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 
-### 📨 Messaging & Search
+### DevOps & Tools
+![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
+![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white)
 
-<p>
-  <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Elastic_Search-005571?style=flat-square&logo=elasticsearch&logoColor=white"/>
-</p>
-
----
-
-### 🧰 DevOps & Version Control
-
-<p>
-  <img src="https://img.shields.io/badge/Azure_DevOps-0078D7?style=flat-square&logo=azure-devops&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white"/>
-</p>
-
----
-
-### 🔨 Practices
-
-<p>
-  <img src="https://img.shields.io/badge/OOP-blueviolet?style=flat-square"/>
-  <img src="https://img.shields.io/badge/REST_API_Design-blue?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Agile%2FScrum-0052CC?style=flat-square&logo=jira&logoColor=white"/>
-  <img src="https://img.shields.io/badge/OWASP_Security-000000?style=flat-square&logo=owasp&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SOLID_Principles-6DB33F?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Clean_Architecture-512BD4?style=flat-square"/>
-</p>
+### Architecture & Best Practices
+![SOLID](https://img.shields.io/badge/SOLID_Principles-6DB33F?style=flat-square&logo=solid&logoColor=white)
+![Clean Architecture](https://img.shields.io/badge/Clean_Architecture-512BD4?style=flat-square&logo=clean-architecture&logoColor=white)
+![REST API](https://img.shields.io/badge/RESTful_API-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Microservices](https://img.shields.io/badge/Microservices-FF6C37?style=flat-square&logo=microservices&logoColor=white)
+![Agile](https://img.shields.io/badge/Agile_Scrum-0052CC?style=flat-square&logo=jira&logoColor=white)
 
 ---
 
 ## 🚀 Featured Projects
 
-**1. [voiceTAP.ai](https://github.com/nishishah35)** — ML-Powered Voice Analysis Web App `Python` `Scikit-learn` `Flask` `React.js`
-> End-to-end ML pipeline: audio feature extraction (MFCCs) → Scikit-learn classifier → Flask REST API → React.js UI. Real-time voice classification with a clean API contract between Python backend and React frontend.
-
-**2. [Placement Management Dashboard](https://github.com/nishishah35)** — Analytics Dashboard `React.js` `Python` `MySQL`
-> Placement tracking dashboard with Python-powered data pipelines, automated report generation, and a React.js analytics UI.
-
-**3. [Online Blood Bank Management System](https://github.com/nishishah35)** — Full-Stack Web App `PHP` `Python` `MySQL`
-> Full-stack donor and blood-request management with automated matching logic, real-time availability dashboards, and exportable admin reports.
-
-**4. [Online Examination System](https://github.com/nishishah35)** — Secure Multi-User Platform `Python` `MySQL`
-> Multi-role (admin/student) exam platform with role-based authentication, session management, and automated result computation.
+<table>
+  <tr>
+    <td width="50%">
+      <h3 align="center">🎙️ VoiceTAP.ai</h3>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white"/>
+        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
+      </p>
+      <p>ML-powered voice analysis platform featuring MFCC audio feature extraction, Scikit-learn classification, Flask REST API, and React.js frontend. Real-time voice pattern recognition with professional UI.</p>
+      <p align="center">⭐ <a href="https://github.com/nishishah35">View Project</a></p>
+    </td>
+    <td width="50%">
+      <h3 align="center">📊 Placement Analytics Dashboard</h3>
+      <p align="center">
+        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+        <img src="https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql&logoColor=white"/>
+      </p>
+      <p>Interactive placement tracking system with automated data pipelines, comprehensive reporting, and real-time analytics dashboard. Streamlined placement process management.</p>
+      <p align="center">⭐ <a href="https://github.com/nishishah35">View Project</a></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3 align="center">🩸 Blood Bank Management</h3>
+      <p align="center">
+        <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+        <img src="https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql&logoColor=white"/>
+      </p>
+      <p>Full-stack blood donation platform with automated donor-recipient matching, real-time availability tracking, and comprehensive admin reporting system.</p>
+      <p align="center">⭐ <a href="https://github.com/nishishah35">View Project</a></p>
+    </td>
+    <td width="50%">
+      <h3 align="center">📝 Online Examination System</h3>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+        <img src="https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql&logoColor=white"/>
+      </p>
+      <p>Multi-role examination platform with secure authentication, automated grading, and comprehensive result analytics. Supports admin, teacher, and student workflows.</p>
+      <p align="center">⭐ <a href="https://github.com/nishishah35">View Project</a></p>
+    </td>
+  </tr>
+</table>
 
 ---
 
-## 💼 Experience
+## 💼 Professional Journey
 
-**🏢 .NET Developer Intern — Casepoint, Surat** *(Jan 2026 – Present)*
-> Building enterprise web apps in C# / ASP.NET Core MVC & Web API · PostgreSQL · Redis · RabbitMQ · Azure DevOps CI/CD · OWASP Security · Agile Sprints
+<div align="center">
 
-**🏢 Software Trainee Intern — Unistar Softech Pvt. Ltd.** *(Jul 2022 – Dec 2022)*
-> PHP & MySQL backend modules · SQL optimisation · Agile SDLC · Git version control
+| Position | Company | Duration | Key Achievements |
+|----------|---------|----------|------------------|
+| **.NET Developer Intern** | **Casepoint, Surat** | Jan 2026 – Present | Enterprise .NET apps, Azure DevOps CI/CD, OWASP Security |
+| **Software Trainee** | **Unistar Softech** | Jul 2022 – Dec 2022 | PHP/MySQL development, Agile methodologies |
+| **AI Training** | **Edunet Foundation & SAP** | 2023 – 2024 | Python, NLP Chatbots, Data Analysis |
 
-**📚 Python, AI & SAP Conversational AI Training — Edunet Foundation & SAP Code Unnati** *(2023 – 2024)*
-> Python · Data Analysis · NLP-based Chatbot Flows · AI Certification (Udemy)
+</div>
 
 ---
 
-## 🎓 Education
+## 🎓 Education & Certifications
 
+### Academic Excellence
 | Degree | Institution | Score |
 |--------|-------------|-------|
-| B.E. CSE — Minor: AI & ML | R.N.G. Patel Institute of Technology, Bardoli | SPI **9.13 / 10** |
-| Diploma in Computer Engineering | N.G. Patel Polytechnic (NBA Accredited) | CGPA **9.67 / 10** |
+| 🎓 B.E. Computer Science (AI & ML Minor) | R.N.G. Patel Institute of Technology | **SPI 9.13/10** |
+| 📜 Diploma in Computer Engineering | N.G. Patel Polytechnic (NBA Accredited) | **CGPA 9.67/10** |
 
----
-
-## 🏅 Certifications
-
+### Professional Certifications
 - 🐍 **Python for Data Science** — IBM
-- 🤖 **Artificial Intelligence** — Udemy
-- ☕ **Java Programming** — Udemy
+- 🤖 **Artificial Intelligence A-Z** — Udemy
+- ☕ **Complete Java Programming** — Udemy
+- 🎯 **SAP Conversational AI** — SAP Code Unnati
 
 ---
 
-## 📊 GitHub Stats
+## 📈 GitHub Analytics
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nishishah35&show_icons=true&theme=tokyonight&hide_border=true" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nishishah35&layout=compact&theme=tokyonight&hide_border=true" width="38%"/>
-</p>
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nishishah35&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nishishah35&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
+</div>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nishishah35&theme=tokyonight&hide_border=true" width="55%"/>
-</p>
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nishishah35&theme=tokyonight&hide_border=true"/>
+</div>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=nishishah35&theme=tokyonight&no-frame=true&row=1&column=7"/>
+</div>
 
 ---
 
-## 🔗 Connect with me
+## 🤝 Let's Connect & Collaborate
 
-Let's connect and collaborate on exciting projects!
+<div align="center">
 
-<p>
-  <a href="https://linkedin.com/in/nishi-shah-80a8b22a8"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:cse.230843131025@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://github.com/nishishah35"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
-</p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/nishi-shah-80a8b22a8)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:cse.230843131025@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nishishah35)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=about.me&logoColor=white)](https://github.com/nishishah35)
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=nishishah35&label=Profile%20views&color=0e75b6&style=flat"/>
-</p>
+</div>
 
-<p align="center">⭐ <i>If you find my work interesting, feel free to star my repos!</i> ⭐</p>
+<div align="center">
+
+### 💬 Open to collaborating on exciting projects and innovative ideas!
+
+**Let's build something amazing together!** 🚀
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote"/>
+
+</div>
+
+---
+
+<div align="center">
+
+### ⭐ *If you find my work interesting, consider giving it a star!* ⭐
+
+</div>
